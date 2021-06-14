@@ -3,7 +3,7 @@ Have you ever been on a phonecall and needed to spell out something but the pers
 the same problems and created a phonetic alphabet.
 
 ## How does the alphabet work?
-It has 26 words, every words starts with each letter of the alphabet (Alfa, ..., Zulu). During a phonecall it may be hard to remember the words, so I made this
+It has 26 words, every word starts with each letter of the alphabet (Alfa, ..., Zulu). During a phonecall it may be hard to remember the words, so I made this
 script that gets them for you.
 
 ## How do I use it?
