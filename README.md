@@ -10,20 +10,20 @@ script that gets them for you.
 It's easy, you just run it, add the desired string as an argument, quotes are optional.
 
 Input:
-```bash
-$ ./aviation-alphabet "Hello world"
+```console
+./aviation-alphabet "Hello world"
 ```
 Output:
-```bash
+```
 Hotel Echo Lima Lima Oscar Whiskey Oscar Romeo Lima Delta
 ```
 Or, you can input the string without quotes, the script takes care of it:
 
 Input:
-```bash
-$ ./aviation-alphabet Hello world
+```console
+./aviation-alphabet Hello world
 ```
 Output:
-```bash
+```
 Hotel Echo Lima Lima Oscar Whiskey Oscar Romeo Lima Delta
 ```
